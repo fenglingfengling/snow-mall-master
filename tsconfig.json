@@ -1,4 +1,5 @@
 {
+  /* package.json pnpm install: "umi generate tmp" */ 
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
